@@ -1,4 +1,4 @@
-# mglic-front
+# MGLIC
 
 Projeto de interface web para gerenciamento de glicemia.
 
@@ -29,7 +29,7 @@ src/
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Endo99/mglic-front.git
+   git clone https://github.com/wellingtonEndo/mglic-front.git
    ```
 2. Abra o projeto no VS Code ou editor de sua preferência.
 3. Abra o arquivo `src/home/html/main.html` no navegador para visualizar a página principal.
